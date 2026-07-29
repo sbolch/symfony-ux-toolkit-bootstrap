@@ -1,3 +1,7 @@
+>
+> !!! ABANDONED: Please, use the [Official Bootstrap Toolkit](https://ux.symfony.com/toolkit/kits/bootstrap) instead which got created in the meantime!
+> 
+
 # Component kit based on Bootstrap 5.3 for Symfony Toolkit
 
 ## Requirements
